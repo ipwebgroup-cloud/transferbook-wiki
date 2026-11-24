@@ -1,0 +1,256 @@
+{
+  "sections": {
+    "integrations": [
+      {
+        "slug": "activation-and-channels",
+        "en": "Integration readiness and channels",
+        "el": "Διαθεσιμότητα και κανάλια διασύνδεσης"
+      },
+      {
+        "slug": "conversational-booking",
+        "en": "Conversational booking and consent",
+        "el": "Κρατήσεις μέσω συνομιλίας και συγκατάθεση"
+      },
+      {
+        "slug": "payment-providers",
+        "en": "Payment provider readiness",
+        "el": "Ετοιμότητα παρόχων πληρωμών"
+      },
+      {
+        "slug": "external-dispatch",
+        "en": "External dispatch adapters",
+        "el": "Εξωτερικές διασυνδέσεις ανάθεσης"
+      },
+      {
+        "slug": "live-tracking",
+        "en": "Fleet tracking and telematics",
+        "el": "Παρακολούθηση στόλου και τηλεματική"
+      }
+    ],
+    "developers": [
+      {
+        "slug": "authentication",
+        "en": "Authentication and tenant access",
+        "el": "Ταυτοποίηση και πρόσβαση εταιρείας"
+      },
+      {
+        "slug": "permissions",
+        "en": "Roles and permissions",
+        "el": "Ρόλοι και δικαιώματα"
+      },
+      {
+        "slug": "reservation-api",
+        "en": "Reservation API reference",
+        "el": "Αναφορά API κρατήσεων"
+      },
+      {
+        "slug": "idempotency",
+        "en": "Retry-safe reservation creation",
+        "el": "Ασφαλής επανάληψη δημιουργίας κράτησης"
+      },
+      {
+        "slug": "pricing-api",
+        "en": "Pricing and tariff API",
+        "el": "API τιμολόγησης και τιμοκαταλόγων"
+      },
+      {
+        "slug": "webhook-events",
+        "en": "Payment webhook events",
+        "el": "Συμβάντα webhook πληρωμών"
+      },
+      {
+        "slug": "website-api",
+        "en": "Website and theme API",
+        "el": "API ιστοσελίδων και προτύπων"
+      }
+    ],
+    "tutorials": [
+      {
+        "slug": "phone-only-booking",
+        "en": "Create a phone-only booking",
+        "el": "Κράτηση μόνο με τηλέφωνο"
+      },
+      {
+        "slug": "return-transfer",
+        "en": "Arrange a return transfer",
+        "el": "Οργάνωση μεταφοράς με επιστροφή"
+      },
+      {
+        "slug": "quote-to-dispatch",
+        "en": "From manual quote to dispatch",
+        "el": "Από χειροκίνητη προσφορά σε ανάθεση"
+      },
+      {
+        "slug": "start-of-shift",
+        "en": "Start-of-shift dispatch checklist",
+        "el": "Έλεγχος αναθέσεων στην έναρξη βάρδιας"
+      },
+      {
+        "slug": "website-design-handoff",
+        "en": "Transfer a website design safely",
+        "el": "Ασφαλής μεταφορά σχεδιασμού ιστοσελίδας"
+      },
+      {
+        "slug": "payment-review",
+        "en": "Review a payment without charging again",
+        "el": "Έλεγχος πληρωμής χωρίς νέα χρέωση"
+      }
+    ],
+    "help": [
+      {
+        "slug": "booking-problems",
+        "en": "Booking form and submission problems",
+        "el": "Προβλήματα φόρμας και υποβολής κράτησης"
+      },
+      {
+        "slug": "pricing-problems",
+        "en": "Missing tariffs and price differences",
+        "el": "Ελλιπείς τιμές και διαφορές τιμολόγησης"
+      },
+      {
+        "slug": "dispatch-problems",
+        "en": "Dispatch conflicts and missing assignments",
+        "el": "Συγκρούσεις και ελλιπείς αναθέσεις"
+      },
+      {
+        "slug": "access-and-session",
+        "en": "Access, permissions and session errors",
+        "el": "Πρόσβαση, δικαιώματα και σφάλματα συνεδρίας"
+      },
+      {
+        "slug": "website-draft-problems",
+        "en": "Missing drafts and package errors",
+        "el": "Προσχέδια που λείπουν και σφάλματα πακέτων"
+      },
+      {
+        "slug": "integration-problems",
+        "en": "Unavailable integrations and payment uncertainty",
+        "el": "Μη διαθέσιμες διασυνδέσεις και αβέβαιες πληρωμές"
+      }
+    ]
+  },
+  "routes": [
+    "/",
+    "/developers/",
+    "/developers/authentication.html",
+    "/developers/idempotency.html",
+    "/developers/permissions.html",
+    "/developers/pricing-api.html",
+    "/developers/reservation-api.html",
+    "/developers/webhook-events.html",
+    "/developers/website-api.html",
+    "/el/",
+    "/el/developers/",
+    "/el/developers/authentication.html",
+    "/el/developers/idempotency.html",
+    "/el/developers/permissions.html",
+    "/el/developers/pricing-api.html",
+    "/el/developers/reservation-api.html",
+    "/el/developers/webhook-events.html",
+    "/el/developers/website-api.html",
+    "/el/getting-started/",
+    "/el/help/",
+    "/el/help/access-and-session.html",
+    "/el/help/booking-problems.html",
+    "/el/help/dispatch-problems.html",
+    "/el/help/integration-problems.html",
+    "/el/help/pricing-problems.html",
+    "/el/help/website-draft-problems.html",
+    "/el/integrations/",
+    "/el/integrations/activation-and-channels.html",
+    "/el/integrations/conversational-booking.html",
+    "/el/integrations/external-dispatch.html",
+    "/el/integrations/live-tracking.html",
+    "/el/integrations/payment-providers.html",
+    "/el/plus/",
+    "/el/plus/assignments.html",
+    "/el/plus/chauffeur-workspace.html",
+    "/el/plus/command-center.html",
+    "/el/plus/commercial-partners.html",
+    "/el/plus/company-and-language-settings.html",
+    "/el/plus/create-reservation.html",
+    "/el/plus/dispatch-schedule.html",
+    "/el/plus/drivers-and-rosters.html",
+    "/el/plus/fleet-management.html",
+    "/el/plus/manual-quotations.html",
+    "/el/plus/markets-and-locations.html",
+    "/el/plus/passenger-information.html",
+    "/el/plus/payments-and-reconciliation.html",
+    "/el/plus/pricing.html",
+    "/el/plus/private-tours.html",
+    "/el/plus/reservation-lifecycle.html",
+    "/el/plus/reservations.html",
+    "/el/plus/vehicle-maintenance.html",
+    "/el/plus/vip-crm.html",
+    "/el/release-notes/",
+    "/el/tutorials/",
+    "/el/tutorials/payment-review.html",
+    "/el/tutorials/phone-only-booking.html",
+    "/el/tutorials/quote-to-dispatch.html",
+    "/el/tutorials/return-transfer.html",
+    "/el/tutorials/start-of-shift.html",
+    "/el/tutorials/website-design-handoff.html",
+    "/el/websites/",
+    "/el/websites/design-and-localization.html",
+    "/el/websites/draft-storage.html",
+    "/el/websites/independent-design.html",
+    "/el/websites/pages-and-sections.html",
+    "/el/websites/portable-packages.html",
+    "/el/websites/publication-controls.html",
+    "/el/websites/responsive-preview.html",
+    "/el/websites/studio-overview.html",
+    "/el/websites/template-manager.html",
+    "/getting-started/",
+    "/help/",
+    "/help/access-and-session.html",
+    "/help/booking-problems.html",
+    "/help/dispatch-problems.html",
+    "/help/integration-problems.html",
+    "/help/pricing-problems.html",
+    "/help/website-draft-problems.html",
+    "/integrations/",
+    "/integrations/activation-and-channels.html",
+    "/integrations/conversational-booking.html",
+    "/integrations/external-dispatch.html",
+    "/integrations/live-tracking.html",
+    "/integrations/payment-providers.html",
+    "/plus/",
+    "/plus/assignments.html",
+    "/plus/chauffeur-workspace.html",
+    "/plus/command-center.html",
+    "/plus/commercial-partners.html",
+    "/plus/company-and-language-settings.html",
+    "/plus/create-reservation.html",
+    "/plus/dispatch-schedule.html",
+    "/plus/drivers-and-rosters.html",
+    "/plus/fleet-management.html",
+    "/plus/manual-quotations.html",
+    "/plus/markets-and-locations.html",
+    "/plus/passenger-information.html",
+    "/plus/payments-and-reconciliation.html",
+    "/plus/pricing.html",
+    "/plus/private-tours.html",
+    "/plus/reservation-lifecycle.html",
+    "/plus/reservations.html",
+    "/plus/vehicle-maintenance.html",
+    "/plus/vip-crm.html",
+    "/release-notes/",
+    "/tutorials/",
+    "/tutorials/payment-review.html",
+    "/tutorials/phone-only-booking.html",
+    "/tutorials/quote-to-dispatch.html",
+    "/tutorials/return-transfer.html",
+    "/tutorials/start-of-shift.html",
+    "/tutorials/website-design-handoff.html",
+    "/websites/",
+    "/websites/design-and-localization.html",
+    "/websites/draft-storage.html",
+    "/websites/independent-design.html",
+    "/websites/pages-and-sections.html",
+    "/websites/portable-packages.html",
+    "/websites/publication-controls.html",
+    "/websites/responsive-preview.html",
+    "/websites/studio-overview.html",
+    "/websites/template-manager.html"
+  ]
+}

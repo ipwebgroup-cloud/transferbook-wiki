@@ -1,0 +1,191 @@
+:root {
+  --vp-layout-max-width: 1600px;
+  --vp-sidebar-width: 280px;
+  --vp-nav-height: 64px;
+}
+
+.VPNavBarTitle .title {
+  font-weight: 700;
+  letter-spacing: -0.5px;
+}
+
+.VPHero .name,
+.VPHero .text {
+  letter-spacing: -1.5px;
+}
+
+.VPHero .tagline {
+  font-weight: 400;
+}
+
+.VPFeature {
+  border-radius: 10px !important;
+}
+
+.VPFeature:hover {
+  border-color: var(--vp-c-brand-1);
+}
+
+.VPSidebarItem .text {
+  font-size: 14px;
+}
+
+.vp-doc {
+  line-height: 1.8;
+}
+
+.vp-doc h1 {
+  letter-spacing: -1px;
+}
+
+.vp-doc img {
+  border-radius: 8px;
+  border: 1px solid var(--vp-c-divider);
+}
+
+.VPFooter {
+  font-size: 12px;
+}
+
+@media (min-width: 960px) {
+  .VPHero .name,
+  .VPHero .text {
+    font-size: 48px;
+    line-height: 56px;
+  }
+
+  .VPHero .tagline {
+    font-size: 20px;
+    line-height: 30px;
+  }
+}
+
+/* TransferBook corporate design tokens */
+
+:root {
+  --vp-font-family-base:
+    'Plus Jakarta Sans',
+    system-ui,
+    -apple-system,
+    BlinkMacSystemFont,
+    'Segoe UI',
+    Roboto,
+    sans-serif;
+
+  --vp-c-brand-1: #0369A1;
+  --vp-c-brand-2: #0284C7;
+  --vp-c-brand-3: #0369A1;
+  --vp-c-brand-soft: rgba(14, 165, 233, 0.12);
+
+  --vp-c-bg: #FFFFFF;
+  --vp-c-bg-alt: #F8FAFC;
+  --vp-c-bg-soft: #F1F5F9;
+
+  --vp-button-brand-text: #FFFFFF;
+  --vp-button-brand-bg: #0369A1;
+  --vp-button-brand-hover-bg: #075985;
+  --vp-button-brand-active-bg: #075985;
+
+  --vp-home-hero-name-color: #0369A1;
+}
+
+.dark {
+  --vp-c-bg: #070B14;
+  --vp-c-bg-alt: #0B1120;
+  --vp-c-bg-elv: #0F172A;
+  --vp-c-bg-soft: #0F172A;
+
+  --vp-c-text-1: #F1F5F9;
+  --vp-c-text-2: #94A3B8;
+  --vp-c-text-3: #94A3B8;
+
+  --vp-c-divider: #1E293B;
+  --vp-c-border: #334155;
+
+  --vp-c-brand-1: #38BDF8;
+  --vp-c-brand-2: #0EA5E9;
+  --vp-c-brand-3: #0284C7;
+  --vp-c-brand-soft: rgba(14, 165, 233, 0.14);
+
+  --vp-sidebar-bg-color: #0B1120;
+
+  --vp-home-hero-name-color: #38BDF8;
+}
+
+.VPNavBarTitle .logo {
+  width: 30px;
+  height: 30px;
+  margin-right: 10px;
+}
+
+.VPNavBarTitle .title {
+  font-weight: 800;
+  letter-spacing: -0.6px;
+}
+
+.VPFeature {
+  border: 1px solid var(--vp-c-divider);
+  transition: border-color 0.15s ease;
+}
+
+.VPFeature:hover {
+  border-color: var(--vp-c-brand-1);
+}
+
+.dark .VPFeature {
+  background-color: #0B1120;
+}
+
+.dark .VPFeature:hover {
+  background-color: #131D33;
+}
+
+.VPSidebarItem.is-active > .item .link > .text {
+  color: var(--vp-c-brand-1);
+  font-weight: 600;
+}
+
+.VPHero .name {
+  font-weight: 800;
+}
+
+.vp-doc h1,
+.vp-doc h2,
+.vp-doc h3 {
+  font-weight: 700;
+}
+
+::selection {
+  background: rgba(14, 165, 233, 0.28);
+}
+
+/* WP-WIKI-007K: responsive documentation polish. No external assets. */
+.VPHome .VPHero .tagline { max-width: 680px; }
+.VPHome .VPFeature { height: 100%; }
+.VPHome .VPFeature .title { line-height: 1.4; }
+.VPHome .VPFeature .details { line-height: 1.65; }
+.VPHome .VPFeature .link-text { font-weight: 600; }
+.VPSidebarItem .text { line-height: 1.45; overflow-wrap: anywhere; }
+.vp-doc { overflow-wrap: break-word; }
+.vp-doc h2 { margin-top: 40px; }
+.vp-doc p, .vp-doc li { line-height: 1.75; }
+.vp-doc a[href^="/screenshots/"] { display: block; border-radius: 10px; }
+.vp-doc a[href^="/screenshots/"] img {
+  display: block; max-width: 100%; height: auto; margin: 0;
+  cursor: zoom-in; border-radius: 10px;
+}
+.vp-doc a[href^="/screenshots/"]:hover img { border-color: var(--vp-c-brand-1); }
+.vp-doc a[href^="/screenshots/"]:focus-visible,
+.VPHome a.VPFeature:focus-visible { outline: 3px solid var(--vp-c-brand-1); outline-offset: 4px; }
+@media (min-width: 1280px) {
+  .VPDoc.has-aside .content-container { max-width: 880px; }
+}
+@media (max-width: 640px) {
+  .VPHero .name, .VPHero .text { letter-spacing: -0.7px; }
+  .vp-doc h1 { letter-spacing: -0.5px; }
+  .vp-doc h2 { margin-top: 32px; }
+  .vp-doc table { max-width: 100%; overflow-x: auto; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .VPFeature { transition: none; }
+}

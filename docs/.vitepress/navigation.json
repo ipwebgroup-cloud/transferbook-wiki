@@ -1,0 +1,42 @@
+[
+  {
+    "en": "Getting Started",
+    "slug": "getting-started",
+    "el": "Πρώτα βήματα"
+  },
+  {
+    "en": "Operator Manual",
+    "slug": "plus",
+    "el": "Εγχειρίδιο χειριστή"
+  },
+  {
+    "en": "Website and Theme Manager",
+    "slug": "websites",
+    "el": "Ιστοσελίδες και πρότυπα"
+  },
+  {
+    "en": "Integrations",
+    "slug": "integrations",
+    "el": "Διασυνδέσεις"
+  },
+  {
+    "en": "Developer Resources",
+    "slug": "developers",
+    "el": "Πόροι προγραμματιστών"
+  },
+  {
+    "en": "Tutorials",
+    "slug": "tutorials",
+    "el": "Οδηγοί χρήσης"
+  },
+  {
+    "en": "Help Centre",
+    "slug": "help",
+    "el": "Κέντρο βοήθειας"
+  },
+  {
+    "en": "Release Notes",
+    "slug": "release-notes",
+    "el": "Σημειώσεις εκδόσεων"
+  }
+]
