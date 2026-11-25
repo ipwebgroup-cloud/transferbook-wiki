@@ -15,6 +15,11 @@
     "el": "Εγκατάσταση και ανάπτυξη"
   },
   {
+    "en": "Security, Privacy & GDPR",
+    "slug": "security-privacy",
+    "el": "Ασφάλεια, ιδιωτικότητα και ΓΚΠΔ"
+  },
+  {
     "en": "Operator Manual",
     "slug": "plus",
     "el": "Εγχειρίδιο χειριστή"

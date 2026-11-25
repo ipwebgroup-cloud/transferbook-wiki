@@ -12,6 +12,8 @@ Available functionality depends on the installed release, permissions and enable
 
 ## Explore the platform
 
+- [Security, Privacy & GDPR](/security-privacy/): access control, passenger information and privacy responsibilities.
+
 - [Installation & Deployment](/installation/): onboarding, hosting and release readiness.
 
 - [System Requirements](/system-requirements/): recommended devices, connectivity and hosting readiness.
