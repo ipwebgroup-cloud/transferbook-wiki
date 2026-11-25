@@ -1,5 +1,25 @@
 # Release Notes
 
+## v0.7.14 — published release
+
+The published release describes responsive Schedule & Dispatch improvements, date navigation and calendar presentation, contracted partner pricing and booking attribution, passenger special requests and internal dispatch notes, authorized dispatch overrides with mandatory audit justification, server-side Website Studio draft and revision improvements, and conversational reservation handoff improvements. Passenger email remains optional.
+
+**Release evidence:** canonical commit `bb02dba6eed8c118f86c6a901f569a4da0033067`; the annotated release tag was verified. The release record reports four passing canonical CI workflows, centralized version consistency tests and preservation of historical database migrations; no new migration is required by this release.
+
+**Availability:** published release, not independent evidence of deployment or live acceptance. Public publication and external provider activation remain gated. English-first functional development continues.
+
+## v0.7.13 — published staging release
+
+Integrated commercial modules, commercial analytics, payment provider readiness, enhanced operator administration and booking workflows, public booking gateway and passenger lookup foundations, and Website Studio / Template Manager integration.
+
+**Release evidence:** the release record reports six additional staging database migrations and scoped permissions, and four passing canonical CI workflows. Activation of public booking or external integrations requires separate configuration and acceptance.
+
+## v0.7.12 — published staging release
+
+Authenticated website design preparation supports larger requests through a dedicated protected endpoint while preserving ordinary API limits. Tenant authorization and role checks precede design processing; malformed or oversized requests receive improved handling. Hosting, HTTPS and publishing safeguards and independent design studio compatibility are retained.
+
+**Release evidence:** the release record reports five passing canonical CI acceptance jobs, a signed release tag, PostgreSQL tenant isolation verification and no new database migrations. No automatic public website changes or live booking or payment activation are implied.
+
 ## v0.7.11 — controlled staging release (24 November 2026)
 
 The release introduces integrated Website Studio publishing capabilities: hosting management, HTTPS verification, compilation of a selected website design, private revision preparation, verified backups and owner-authorized website updates and rollback. It includes single-use authorization and recovery protections and maintains independent local design studio compatibility.
