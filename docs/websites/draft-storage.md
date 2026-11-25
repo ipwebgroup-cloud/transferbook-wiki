@@ -29,3 +29,9 @@ If storage is unavailable, treat saving as unsuccessful and export where possibl
 4. If storage quota or corrupted local data causes a warning, preserve any available export before cleanup. Revision history may be pruned when quota is exceeded; do not assume all earlier revisions survive.
 
 Browser recovery is not server backup or cross-device synchronization.
+
+## Changes described in v0.7.12–v0.7.14
+
+v0.7.12 adds authenticated preparation of larger design requests; v0.7.13 integrates Website Studio and Template Manager; v0.7.14 describes server-side draft and revision improvements. These release records supplement the historical local-storage workflows above. Confirm the actual storage mode, save result, revision availability, company scope and recovery method before relying on server persistence. Neither successful draft preparation nor a saved revision authorizes public publication. Keep a portable backup as appropriate.
+
+See [Release Notes](/release-notes/).

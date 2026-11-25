@@ -20,3 +20,9 @@ The source supports WhatsApp, Meta Messenger and Instagram simulations, in Engli
 Passenger email remains optional. A sandbox reply or persisted conversation does not prove external delivery.
 
 See [Create a reservation](/plus/create-reservation.html).
+
+## Changes described in v0.7.14
+
+The release describes improvements to conversational reservation handoff. In an authorized test environment, verify extracted details and consent state, review the handoff, and confirm the booking only through the approved workflow. Do not infer live channel activation or message delivery. Passenger email remains optional.
+
+See [Release Notes](/release-notes/).

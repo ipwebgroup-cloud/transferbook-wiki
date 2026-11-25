@@ -29,3 +29,9 @@ The selected period and filters display matching bookings. Review and quote-pend
 
 ## Troubleshooting
 If a trip is missing, check hub, period and status filter. If assignment is refused, resolve scheduling or capacity conflicts. See [Driver and vehicle assignment](/plus/assignments).
+
+## Changes described in v0.7.14
+
+The published release describes responsive layout corrections, improved date navigation and calendar presentation, internal dispatch notes and authorized overrides with mandatory audit justification. Review the current calendar and assignment details before acting. An override is not a general bypass: use it only when authorized, document the actual reason and verify the resulting assignment. Exact controls and permissions require release-specific acceptance. The illustration above remains a historical v0.7.11 capture.
+
+See [Release Notes](/release-notes/).

@@ -31,3 +31,9 @@ Missing email alone does not prevent reservation creation. Correct invalid conta
 *Guest Full Name and Phone are required; Email (Optional) may remain empty.*
 
 English UI, v0.7.11 staging capture; illustrative data.
+
+## Changes described in v0.7.14
+
+The release describes passenger special requests and internal dispatch notes. Record only relevant information, distinguish customer requests from internal operational notes, and confirm visibility and permissions before using either field. Do not store unnecessary sensitive details. Passenger email remains optional. Exact field behavior requires acceptance against the installed release.
+
+See [Security, Privacy & GDPR](/security-privacy/) and [Release Notes](/release-notes/).

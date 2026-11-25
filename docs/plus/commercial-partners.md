@@ -35,3 +35,9 @@ A profile or configured commission does not prove a signed agreement or a paid i
 - [Operator Manual](/plus/)
 - [Reservations](/plus/reservations)
 - [Dispatch schedule](/plus/dispatch-schedule)
+
+## Changes described in v0.7.14
+
+The published release describes contracted partner pricing and booking attribution. Verify the selected partner, agreed rate, applicable booking and authorized pricing outcome before confirmation. A recorded attribution does not establish a signed contract, commission settlement or collected payment. Exact workflow and permissions must be validated in the accepted environment.
+
+See [Release Notes](/release-notes/).
