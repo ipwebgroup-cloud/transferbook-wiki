@@ -12,6 +12,8 @@ Available functionality depends on the installed release, permissions and enable
 
 ## Explore the platform
 
+- [System Requirements](/system-requirements/): recommended devices, connectivity and hosting readiness.
+
 - [Operator manual](/plus/): reservations, dispatch and pricing.
 - [Website and Theme Manager](/websites/): website design and previews.
 - [Integrations](/integrations/): connected services and availability boundaries.
