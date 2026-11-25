@@ -79,3 +79,5 @@ Before publishing certified requirements, validate the exact release on the inte
 For operational readiness, see [Integration readiness and channels](/integrations/activation-and-channels.html) and [Release Notes](/release-notes/).
 
 [Ελληνικά](/el/system-requirements/)
+
+For onboarding and the deployment lifecycle, see [Installation & Deployment](/installation/).
