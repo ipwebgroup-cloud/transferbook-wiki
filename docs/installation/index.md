@@ -75,3 +75,5 @@ If an incident interrupts a reservation or payment, verify its authoritative sta
 For training, see [Tutorials](/tutorials/). For operational problems, see [Help Centre](/help/) and [Integration readiness and channels](/integrations/activation-and-channels.html).
 
 [Ελληνικά](/el/installation/)
+
+Before go-live, review [Security, Privacy & GDPR](/security-privacy/).

@@ -14,3 +14,5 @@
 [Πλήρης οδηγός Installation & Deployment (English)](/installation/)
 
 [Σημειώσεις εκδόσεων](/el/release-notes/) · [Κέντρο βοήθειας](/el/help/)
+
+Πριν από την έναρξη λειτουργίας, δείτε [Ασφάλεια, ιδιωτικότητα και ΓΚΠΔ](/el/security-privacy/).
