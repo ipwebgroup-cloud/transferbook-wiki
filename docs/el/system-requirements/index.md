@@ -12,3 +12,5 @@
 [Πλήρεις απαιτήσεις συστήματος (English)](/system-requirements/)
 
 [Πρώτα βήματα](/el/getting-started/) · [Κέντρο βοήθειας](/el/help/)
+
+[Εγκατάσταση και ανάπτυξη](/el/installation/)

@@ -10,6 +10,11 @@
     "el": "Απαιτήσεις συστήματος"
   },
   {
+    "en": "Installation & Deployment",
+    "slug": "installation",
+    "el": "Εγκατάσταση και ανάπτυξη"
+  },
+  {
     "en": "Operator Manual",
     "slug": "plus",
     "el": "Εγχειρίδιο χειριστή"

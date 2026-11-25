@@ -12,6 +12,8 @@ Available functionality depends on the installed release, permissions and enable
 
 ## Explore the platform
 
+- [Installation & Deployment](/installation/): onboarding, hosting and release readiness.
+
 - [System Requirements](/system-requirements/): recommended devices, connectivity and hosting readiness.
 
 - [Operator manual](/plus/): reservations, dispatch and pricing.
