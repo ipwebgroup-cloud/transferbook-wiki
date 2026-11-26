@@ -131,6 +131,7 @@
   },
   "routes": [
     "/",
+    "/changelog/",
     "/developers/",
     "/developers/authentication.html",
     "/developers/idempotency.html",
@@ -140,6 +141,7 @@
     "/developers/webhook-events.html",
     "/developers/website-api.html",
     "/el/",
+    "/el/changelog/",
     "/el/developers/",
     "/el/developers/authentication.html",
     "/el/developers/idempotency.html",

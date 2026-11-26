@@ -24,3 +24,4 @@ Available functionality depends on the installed release, permissions and enable
 - [Tutorials](/tutorials/): guided workflows.
 - [Help Centre](/help/): common questions and troubleshooting.
 - [Release Notes](/release-notes/): changes by software release.
+- [Changelog](/changelog/): categorized changes by version.

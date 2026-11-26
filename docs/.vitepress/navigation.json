@@ -53,5 +53,10 @@
     "en": "Release Notes",
     "slug": "release-notes",
     "el": "Σημειώσεις εκδόσεων"
+  },
+  {
+    "en": "Changelog",
+    "slug": "changelog",
+    "el": "Ιστορικό αλλαγών"
   }
 ]
