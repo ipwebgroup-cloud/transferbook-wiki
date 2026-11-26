@@ -6,7 +6,11 @@
   "scripts": {
     "docs:dev": "vitepress dev docs --host 127.0.0.1",
     "docs:build": "vitepress build docs",
-    "docs:preview": "vitepress preview docs --host 127.0.0.1"
+    "docs:preview": "vitepress preview docs --host 127.0.0.1",
+    "release:validate": "node scripts/release-sync.mjs validate",
+    "release:check": "node scripts/release-sync.mjs check",
+    "release:apply": "node scripts/release-sync.mjs apply",
+    "release:test": "node --test scripts/release-sync.test.mjs"
   },
   "devDependencies": {
     "vitepress": "1.6.4"
