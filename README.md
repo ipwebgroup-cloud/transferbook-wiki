@@ -16,4 +16,8 @@ npm run docs:build
 
 The static output is in `docs/.vitepress/dist/`.
 
+## Release synchronization
+
+See [the release synchronization runbook](release-sync/README.md). Use `npm run release:validate` and `npm run release:test` before publication. Read-only discovery requires authorized GitHub CLI access to the private canonical application repository.
+
 Copyright TransferBook+. All rights reserved. Public repository access does not grant an open-source license.
