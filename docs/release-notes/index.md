@@ -2,6 +2,12 @@
 
 For the version-by-version record see [Changelog](/changelog/). The newer summaries below reflect published release records, not confirmation of production activation.
 
+## v0.7.22 — 2026-11-26
+
+Commercial hardening improves cash custody, chauffeur access safeguards, passenger privacy, AI data minimization and automated validation.
+
+**Availability:** publication does not confirm installation or commercial activation.
+
 ## v0.7.21 — 2026-11-26
 
 AI privacy minimization and local reconstruction of contact details; CRM recognition, conflicting contact detection, passenger lifecycle notifications and company onboarding readiness. Atomic conversation persistence with rollback protection; human dispatcher takeover, conversation ownership enforcement and protected saved-location selection and private CRM preferences.

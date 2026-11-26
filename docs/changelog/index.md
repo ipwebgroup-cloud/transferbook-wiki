@@ -2,11 +2,22 @@
 
 Version-by-version history of TransferBook+. For customer-oriented summaries see [Release Notes](/release-notes/).
 
-**Snapshot: v0.7.21 · 26 November 2026 (UTC).**
+**Snapshot: v0.7.22 · 2026-11-26 (UTC).**
 
 Dates are GitHub release publication dates or, where no separate release entry exists, signed tag dates. The five tag-only entries have limited evidence. CI results are reported by release records, not newly executed tests. Publication does not establish installation, live acceptance or commercial availability. Categories without supporting evidence are omitted.
 
 [Ελληνικά](/el/changelog/)
+
+## v0.7.22 — 2026-11-26
+
+**Source:** published GitHub release record.
+
+- **Improved:** Cash collection, chauffeur custody verification, AI commercial grounding and release validation automation.
+- **Security:** Audited cash custody transfers, stronger chauffeur reservation access controls, passenger privacy and AI data minimization.
+- **Added:** Reusable commercial API acceptance harness and automated Chromium browser regression testing.
+- **Validation:** Release record reports 691 passing local regression tests, zero local failures, 26 deferred database-dependent tests, four successful builds, 14 successful synthetic browser checks and five passing canonical CI workflows.
+- **Known limitations:** Six authenticated browser scenarios remain pending.
+- **Availability:** Controlled staging installation only. Production activation, external providers and unrestricted public booking remain unauthorized.
 
 ## v0.7.21 — 2026-11-26
 
