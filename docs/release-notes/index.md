@@ -1,5 +1,49 @@
 # Release Notes
 
+For the version-by-version record see [Changelog](/changelog/). The newer summaries below reflect published release records, not confirmation of production activation.
+
+## v0.7.21 — 2026-11-26
+
+AI privacy minimization and local reconstruction of contact details; CRM recognition, conflicting contact detection, passenger lifecycle notifications and company onboarding readiness. Atomic conversation persistence with rollback protection; human dispatcher takeover, conversation ownership enforcement and protected saved-location selection and private CRM preferences.
+
+**Availability:** publication does not confirm installation or commercial activation.
+
+## v0.7.20 — 2026-11-25
+
+Fast customer lookup, returning-passenger recognition, phone-only booking with optional email, cash-first operator workflow, partner commission estimation and passenger-safe booking summaries; messaging channel foundations. Company onboarding, AI Copilot continuity, booking status and tariff presentation, and clipboard feedback.
+
+**Availability:** publication does not confirm installation or commercial activation.
+
+## v0.7.19 — 2026-11-25
+
+Chauffeur journey and amendment safeguards, partial and full cash collection, collecting chauffeur attribution, reconciliation and handover, CRM and repeat bookings, concierge partner reservations, AI operations and onboarding readiness. Update failure detection, installation monitoring timeout recovery and safer retry verification.
+
+**Availability:** publication does not confirm installation or commercial activation.
+
+## v0.7.18 — 2026-11-25
+
+Independent outbound and return assignments, separate chauffeur progress, driver cash confirmation, printable trip vouchers, expanded reporting and company readiness checklist. Update Now interface, header update notification, installation monitoring, compact diagnostics, cash handover, dispatch conflict detection, booking and AI Copilot.
+
+**Availability:** publication does not confirm installation or commercial activation.
+
+## v0.7.17 — 2026-11-25
+
+Dispatch scheduling and crew selection, return calendar visibility, chauffeur dashboard, outstanding cash balances and cash receipt confirmation. Driver-to-office cash handover and daily cash management summaries.
+
+**Availability:** publication does not confirm installation or commercial activation.
+
+## v0.7.16 — 2026-11-25
+
+PostgreSQL parameter typing in partner reservation amendments; preserved authoritative contracted pricing and commission calculations.
+
+**Availability:** publication does not confirm installation or commercial activation.
+
+## v0.7.15 — 2026-11-25
+
+Return and hourly chauffeur amendments, authoritative return discounts, partner pricing and commissions, payment ledger and balances, cash reconciliation, chauffeur dashboard, phone lookup, passenger privacy, Website Studio, conversational handoff and Command Center metrics. Email remains optional.
+
+**Availability:** publication does not confirm installation or commercial activation.
+
 ## v0.7.14 — published release
 
 The published release describes responsive Schedule & Dispatch improvements, date navigation and calendar presentation, contracted partner pricing and booking attribution, passenger special requests and internal dispatch notes, authorized dispatch overrides with mandatory audit justification, server-side Website Studio draft and revision improvements, and conversational reservation handoff improvements. Passenger email remains optional.
