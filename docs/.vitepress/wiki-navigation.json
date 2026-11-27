@@ -157,6 +157,38 @@
         "en": "Unavailable integrations and payment uncertainty",
         "el": "Μη διαθέσιμες διασυνδέσεις και αβέβαιες πληρωμές"
       }
+    ],
+    "getting-started": [
+      {
+        "slug": "company-onboarding",
+        "en": "Company onboarding",
+        "el": "Ένταξη και ρύθμιση εταιρείας"
+      },
+      {
+        "slug": "quick-start",
+        "en": "Administrator quick start",
+        "el": "Γρήγορη εκκίνηση διαχειριστή"
+      },
+      {
+        "slug": "first-reservation",
+        "en": "First reservation: quote to settlement",
+        "el": "Πρώτη κράτηση: από προσφορά σε διακανονισμό"
+      },
+      {
+        "slug": "staff-onboarding",
+        "en": "Staff and chauffeur onboarding checklist",
+        "el": "Λίστα ένταξης προσωπικού και οδηγών"
+      },
+      {
+        "slug": "go-live-checklist",
+        "en": "Commercial go-live acceptance",
+        "el": "Αποδοχή εμπορικής έναρξης"
+      },
+      {
+        "slug": "backup-recovery",
+        "en": "Backup, recovery & business continuity",
+        "el": "Αντίγραφα, ανάκτηση και επιχειρησιακή συνέχεια"
+      }
     ]
   },
   "routes": [
@@ -181,6 +213,12 @@
     "/el/developers/webhook-events.html",
     "/el/developers/website-api.html",
     "/el/getting-started/",
+    "/el/getting-started/backup-recovery.html",
+    "/el/getting-started/company-onboarding.html",
+    "/el/getting-started/first-reservation.html",
+    "/el/getting-started/go-live-checklist.html",
+    "/el/getting-started/quick-start.html",
+    "/el/getting-started/staff-onboarding.html",
     "/el/help/",
     "/el/help/access-and-session.html",
     "/el/help/booking-problems.html",
@@ -249,6 +287,12 @@
     "/el/websites/studio-overview.html",
     "/el/websites/template-manager.html",
     "/getting-started/",
+    "/getting-started/backup-recovery.html",
+    "/getting-started/company-onboarding.html",
+    "/getting-started/first-reservation.html",
+    "/getting-started/go-live-checklist.html",
+    "/getting-started/quick-start.html",
+    "/getting-started/staff-onboarding.html",
     "/help/",
     "/help/access-and-session.html",
     "/help/booking-problems.html",
