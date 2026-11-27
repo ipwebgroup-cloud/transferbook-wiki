@@ -35,3 +35,7 @@ If a trip is missing, check hub, period and status filter. If assignment is refu
 The published release describes responsive layout corrections, improved date navigation and calendar presentation, internal dispatch notes and authorized overrides with mandatory audit justification. Review the current calendar and assignment details before acting. An override is not a general bypass: use it only when authorized, document the actual reason and verify the resulting assignment. Exact controls and permissions require release-specific acceptance. The illustration above remains a historical v0.7.11 capture.
 
 See [Release Notes](/release-notes/).
+
+## v0.7.26 dispatch review
+
+Verify the full assignment interval, configured buffer, chauffeur duty/absence, vehicle maintenance and passenger/luggage capacity. Concurrent assignments can be rejected by resource locking; refresh and resolve the conflict rather than forcing an assignment. Return legs are independent. If an arrival advisory proposes a pickup change, review evidence and tariff date/night boundaries before approving; inspect the saved schedule afterwards. See [Arrival intelligence](/plus/arrival-intelligence.html) and [Subcontractors](/plus/subcontractors.html).

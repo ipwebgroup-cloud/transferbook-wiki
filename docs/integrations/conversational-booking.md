@@ -26,3 +26,9 @@ See [Create a reservation](/plus/create-reservation.html).
 The release describes improvements to conversational reservation handoff. In an authorized test environment, verify extracted details and consent state, review the handoff, and confirm the booking only through the approved workflow. Do not infer live channel activation or message delivery. Passenger email remains optional.
 
 See [Release Notes](/release-notes/).
+
+## AI Copilot and persistent conversion — v0.7.26
+
+Review the extracted service, date/time, route, passenger count, capacity, contact and quote context in the approved conversation workspace. Use the human takeover path if information is uncertain or the passenger requests escalation. Do not let AI invent tariffs, contacts or availability. Verify CRM matching and independently confirm ambiguous customers. Use phone-only booking where appropriate without fabricated email.
+
+The persistent conversion requires AI management and reservation-write authorization and has transactional duplicate/concurrency protection. Review the resulting reservation reference and status before trying again. An AI draft or handoff is not a confirmed booking. Real messaging and external AI acceptance require separate approval. See [Notifications](/plus/passenger-notifications.html) and [AI and messaging setup](/integrations/ai-messaging-setup.html).

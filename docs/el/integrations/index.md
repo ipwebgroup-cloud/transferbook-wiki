@@ -14,3 +14,7 @@
 - [Ετοιμότητα παρόχων πληρωμών](/el/integrations/payment-providers.html)
 - [Εξωτερικές διασυνδέσεις ανάθεσης](/el/integrations/external-dispatch.html)
 - [Παρακολούθηση στόλου και τηλεματική](/el/integrations/live-tracking.html)
+
+## Νέοι οδηγοί v0.7.26
+
+- [Δοκιμαστικές λειτουργίες AADE/myDATA και EDXEIX](/el/integrations/regulatory-sandbox.html)

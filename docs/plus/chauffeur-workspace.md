@@ -35,3 +35,9 @@ If a trip is missing or a progress action is unavailable, contact dispatch. Do n
 - [Operator Manual](/plus/)
 - [Reservations](/plus/reservations)
 - [Dispatch schedule](/plus/dispatch-schedule)
+
+## v0.7.26 journey-leg operations
+
+Sign in with the actual authorized driver account. Review each assigned outbound or return task, accept or reject through the supported workflow and advance only the correct leg. Do not advance the return merely because the outbound is complete. Confirm current pickup brief and any reviewed arrival advisory. If GPS sharing is available and approved, use explicit opt-in while on duty and stop when no longer authorized. If the session is expired or offline, restore authorized access before submitting changes.
+
+For partial or full cash received, use [Cash management](/plus/cash-management.html); physical office handover is separate. See [Arrival intelligence](/plus/arrival-intelligence.html) and [Staff administration](/plus/staff-administration.html).

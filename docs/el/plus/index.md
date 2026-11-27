@@ -42,3 +42,13 @@
 
 - [Εμπορικοί συνεργάτες](/el/plus/commercial-partners)
 - [Πληρωμές και συμφωνία συναλλαγών](/el/plus/payments-and-reconciliation)
+
+## Νέοι οδηγοί v0.7.26
+
+- [Λογαριασμοί προσωπικού και διαχείριση](/el/plus/staff-administration.html)
+- [Πληροφορίες αφίξεων πτήσεων και πλοίων](/el/plus/arrival-intelligence.html)
+- [Είσπραξη και παράδοση μετρητών](/el/plus/cash-management.html)
+- [Υπεργολάβοι και διακανονισμοί](/el/plus/subcontractors.html)
+- [Πύλη κρατήσεων πελατών](/el/plus/customer-booking-gateway.html)
+- [Ειδοποιήσεις επιβατών και ιστορικό παράδοσης](/el/plus/passenger-notifications.html)
+- [Διαχείριση ενημερώσεων λογισμικού](/el/plus/software-update-manager.html)

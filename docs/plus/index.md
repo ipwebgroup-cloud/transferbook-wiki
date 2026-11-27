@@ -42,3 +42,13 @@ The advanced transportation operating platform includes reservation management, 
 
 - [Commercial partners](/plus/commercial-partners)
 - [Payments and reconciliation](/plus/payments-and-reconciliation)
+
+## New v0.7.26 guides
+
+- [Staff accounts and administration](/plus/staff-administration.html)
+- [Flight & ferry arrival intelligence](/plus/arrival-intelligence.html)
+- [Cash collection & office handover](/plus/cash-management.html)
+- [Subcontractor operations & settlements](/plus/subcontractors.html)
+- [Customer booking gateway](/plus/customer-booking-gateway.html)
+- [Passenger notifications & delivery history](/plus/passenger-notifications.html)
+- [Software Update Manager](/plus/software-update-manager.html)
