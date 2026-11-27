@@ -10,6 +10,15 @@ Welcome to TransferBook+, the transportation operating platform for reservations
 
 Available functionality depends on the installed release, permissions and enabled integrations. This local documentation is a draft pending operational review.
 
+## Commercial onboarding and training
+
+- [Company onboarding](/getting-started/company-onboarding.html)
+- [Administrator quick start](/getting-started/quick-start.html)
+- [First reservation: quote to settlement](/getting-started/first-reservation.html)
+- [Staff and chauffeur onboarding checklist](/getting-started/staff-onboarding.html)
+- [Commercial go-live acceptance](/getting-started/go-live-checklist.html)
+- [Backup, recovery & business continuity](/getting-started/backup-recovery.html)
+
 ## Explore the platform
 
 - [Security, Privacy & GDPR](/security-privacy/): access control, passenger information and privacy responsibilities.

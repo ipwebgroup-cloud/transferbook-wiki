@@ -22,7 +22,7 @@ export function reconcile(original, catalogue) {
     const out = Object.fromEntries(Object.entries(value).map(([k,v])=>[k,walk(v,inSidebar || k==='sidebar')]))
     if (typeof out.link==='string') out.link=normalize(out.link)
     if (inSidebar && typeof out.link==='string') {
-      const match=/^\/(el\/)?(integrations|developers|tutorials|help)\/$/.exec(out.link)
+      const match=/^\/(el\/)?(getting-started|integrations|developers|tutorials|help)\/$/.exec(out.link)
       if (match && catalogue.sections[match[2]]) {
         const lang=match[1]?'el':'en', prefix=match[1]?'/el/':'/'
         seen.add(lang+':'+match[2])
