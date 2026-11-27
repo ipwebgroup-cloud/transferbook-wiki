@@ -128,6 +128,21 @@
     ],
     "help": [
       {
+        "slug": "faq",
+        "en": "Frequently asked questions",
+        "el": "Συχνές ερωτήσεις"
+      },
+      {
+        "slug": "glossary",
+        "en": "Terminology glossary",
+        "el": "Γλωσσάρι όρων"
+      },
+      {
+        "slug": "feature-availability",
+        "en": "Feature availability matrix",
+        "el": "Πίνακας διαθεσιμότητας λειτουργιών"
+      },
+      {
         "slug": "booking-problems",
         "en": "Booking form and submission problems",
         "el": "Προβλήματα φόρμας και υποβολής κράτησης"
@@ -223,6 +238,9 @@
     "/el/help/access-and-session.html",
     "/el/help/booking-problems.html",
     "/el/help/dispatch-problems.html",
+    "/el/help/faq.html",
+    "/el/help/feature-availability.html",
+    "/el/help/glossary.html",
     "/el/help/integration-problems.html",
     "/el/help/pricing-problems.html",
     "/el/help/website-draft-problems.html",
@@ -297,6 +315,9 @@
     "/help/access-and-session.html",
     "/help/booking-problems.html",
     "/help/dispatch-problems.html",
+    "/help/faq.html",
+    "/help/feature-availability.html",
+    "/help/glossary.html",
     "/help/integration-problems.html",
     "/help/pricing-problems.html",
     "/help/website-draft-problems.html",
