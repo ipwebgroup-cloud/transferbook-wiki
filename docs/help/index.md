@@ -1,5 +1,11 @@
 # Help Centre
 
+## Customer reference
+
+- [Frequently asked questions](/help/faq.html)
+- [Terminology glossary](/help/glossary.html)
+- [Feature availability matrix](/help/feature-availability.html)
+
 ## I cannot create a reservation
 Check your role, active operating hub, vehicle class, route and verified quotation. See [Create a reservation](/plus/create-reservation).
 
