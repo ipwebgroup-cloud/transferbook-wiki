@@ -20,3 +20,5 @@ The source uses RS256 JWT verification. Use the approved authentication flow for
 On a denial, resolve the underlying access issue rather than substituting another company's ID. Use only synthetic data in integration tests.
 
 See [Roles and permissions](/developers/permissions.html).
+
+For provider credentials see [API keys & secure setup](/integrations/api-keys.html).

@@ -2,11 +2,47 @@
 
 Version-by-version history of TransferBook+. For customer-oriented summaries see [Release Notes](/release-notes/).
 
-**Snapshot: v0.7.22 · 2026-11-26 (UTC).**
+**Snapshot: v0.7.26 · 2026-11-27 (UTC).**
 
 Dates are GitHub release publication dates or, where no separate release entry exists, signed tag dates. The five tag-only entries have limited evidence. CI results are reported by release records, not newly executed tests. Publication does not establish installation, live acceptance or commercial availability. Categories without supporting evidence are omitted.
 
 [Ελληνικά](/el/changelog/)
+
+## v0.7.26 — 2026-11-27
+
+**Source:** published GitHub release record.
+
+- **Added and improved:** Graphical fleet tracking and offline geographic canvas, independent journey legs, persistent flight and ferry identities, timestamped manual observations, arrival advisories, dispatcher-reviewed pickup changes and chauffeur briefs.
+- **Security and reliability:** Full-duration conflicts, absence and maintenance checks, concurrent locking, capacity and return chronology, stale evidence protection, tariff review at date/night boundaries, tenant isolation and append-only observations.
+- **Validation:** 835 passed, zero failures, one expected skip; five CI workflows, real PostgreSQL migration and HTTP acceptance, Node 24 builds and ASUS regression acceptance passed; release reports migration 025 applied to staging and verified backup.
+- **Availability:** Automatic external flight/ferry monitoring, background scheduling, complete quota enforcement, licensed street maps and physical mobile GPS remain outstanding; external providers and public intake disabled.
+
+## v0.7.25 — 2026-11-26
+
+**Source:** published GitHub release record.
+
+- **Added and improved:** Persistent notifications and retries, transactional conversation conversion, subcontractors and leg assignments, supplier settlements, profitability, AADE/myDATA and EDXEIX sandbox records, manual arrival advisories and update preservation.
+- **Security and reliability:** Tenant isolation, opt-out and duplicate protection, restricted database permissions and append-only audit; passenger email optional; six languages.
+- **Validation:** 826 passed, zero failures, one expected skip; five CI and seven PostgreSQL acceptance workflows passed; migration 024 reported applied to staging with verified backup.
+- **Availability:** External providers, automated arrival monitoring, physical GPS, live regulatory submission and customer installations outstanding.
+
+## v0.7.24 — 2026-11-26
+
+**Source:** published GitHub release record.
+
+- **Added and improved:** Opt-in chauffeur GPS, geofences, optional Google map, Places and Geocoding, Routes estimates and return legs; notification, multilingual booking, subcontractor and regulatory sandbox foundations.
+- **Security and reliability:** Tenant isolation, revoked sharing leases, restricted external configuration, usage and privacy safeguards, authoritative tariffs.
+- **Validation:** 804 passed, zero failures, one expected skip, five CI workflows, PostgreSQL and isolated browser acceptance, ASUS compatibility; no new migrations.
+- **Availability:** External activation, physical mobile acceptance, live regulatory submission and customer installations deferred.
+
+## v0.7.23 — 2026-11-26
+
+**Source:** published GitHub release record.
+
+- **Added and improved:** Standalone customer booking gateway, authoritative quotes, phone-only booking, automatic CRM linkage, independent chauffeur journeys, partial cash collection and audited handover.
+- **Security and reliability:** Restricted database permissions, transactional persistence, duplicate protection, tenant and chauffeur authorization.
+- **Validation:** 723 tests passed, zero failures, five canonical CI workflows and real PostgreSQL commercial lifecycle acceptance passed; signed release verified.
+- **Availability:** Public booking and external delivery disabled pending approval.
 
 ## v0.7.22 — 2026-11-26
 
