@@ -27,3 +27,9 @@ Live vehicle tracking requires a configured telematics provider. The baseline di
 Never infer a real driver's location from a demonstration marker or an estimated arrival from an unverified feed. Do not publish driver location screenshots containing personal data.
 
 See [Fleet management](/plus/fleet-management.html) and [Driver and vehicle assignment](/plus/assignments.html).
+
+## v0.7.26 operational tracking
+
+The historical screenshot above is v0.7.11 and does not depict current GPS capability. The v0.7.26 source supports a local geographical canvas and authenticated chauffeur positions. Sharing requires explicit driver opt-in and on-duty authorization; freshness, accuracy and revocation matter. Dispatchers should confirm the correct hub and leg, check the last report and treat stale/missing coordinates as unavailable, not proof of movement. The independent return leg may have a different chauffeur.
+
+Optional licensed Google map and road estimates require their own configuration and acceptance. Physical mobile GPS acceptance and automatic external flight/ferry tracking remain outstanding. See [Maps and arrivals setup](/integrations/maps-arrivals-setup.html) and [Arrival intelligence](/plus/arrival-intelligence.html).

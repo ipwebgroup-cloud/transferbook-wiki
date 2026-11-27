@@ -25,3 +25,7 @@ Provider options are not proof of enabled live checkout. Do not charge or refund
 - [Operator Manual](/plus/)
 - [Reservations](/plus/reservations)
 - [Dispatch schedule](/plus/dispatch-schedule)
+
+## v0.7.26 commercial finance
+
+Partial cash collection and physical office handover have distinct records. Verify the receipt, original collecting chauffeur and actual cash before confirming custody; use the [Cash management guide](/plus/cash-management.html). Review supplier settlements separately using [Subcontractors](/plus/subcontractors.html). The Command Center Collected / Authorized figure includes authorizations and its Outstanding indicator is not an exact post-partial-payment balance; reconcile with individual records. External PSP activation remains separate from recording money. See [Payment gateway setup](/integrations/payment-api-setup.html).
