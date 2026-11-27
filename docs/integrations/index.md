@@ -1,6 +1,13 @@
 # Integrations
 
-Source-reviewed reference for TransferBook+ v0.7.9. Live activation and production access are verified separately. These guides are not a complete API schema.
+New setup guides reviewed against v0.7.26; older guides retain their stated source baselines. Live activation and production access are verified separately. These guides are not a complete API schema.
+
+
+- [API keys & secure setup](/integrations/api-keys.html)
+- [Third-party API setup & readiness](/integrations/third-party-api-setup.html)
+- [Google Maps, routing & arrival APIs](/integrations/maps-arrivals-setup.html)
+- [AI, email & messaging API setup](/integrations/ai-messaging-setup.html)
+- [Payment gateway API setup](/integrations/payment-api-setup.html)
 
 - [Integration readiness and channels](/integrations/activation-and-channels.html)
 - [Conversational booking and consent](/integrations/conversational-booking.html)

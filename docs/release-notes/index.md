@@ -2,6 +2,30 @@
 
 For the version-by-version record see [Changelog](/changelog/). The newer summaries below reflect published release records, not confirmation of production activation.
 
+## v0.7.26 — 2026-11-27
+
+Graphical fleet tracking and offline geographic canvas, independent journey legs, persistent flight and ferry identities, timestamped manual observations, arrival advisories, dispatcher-reviewed pickup changes and chauffeur briefs.
+
+**Availability:** Automatic external flight/ferry monitoring, background scheduling, complete quota enforcement, licensed street maps and physical mobile GPS remain outstanding; external providers and public intake disabled.
+
+## v0.7.25 — 2026-11-26
+
+Persistent notifications and retries, transactional conversation conversion, subcontractors and leg assignments, supplier settlements, profitability, AADE/myDATA and EDXEIX sandbox records, manual arrival advisories and update preservation.
+
+**Availability:** External providers, automated arrival monitoring, physical GPS, live regulatory submission and customer installations outstanding.
+
+## v0.7.24 — 2026-11-26
+
+Opt-in chauffeur GPS, geofences, optional Google map, Places and Geocoding, Routes estimates and return legs; notification, multilingual booking, subcontractor and regulatory sandbox foundations.
+
+**Availability:** External activation, physical mobile acceptance, live regulatory submission and customer installations deferred.
+
+## v0.7.23 — 2026-11-26
+
+Standalone customer booking gateway, authoritative quotes, phone-only booking, automatic CRM linkage, independent chauffeur journeys, partial cash collection and audited handover.
+
+**Availability:** Public booking and external delivery disabled pending approval.
+
 ## v0.7.22 — 2026-11-26
 
 Commercial hardening improves cash custody, chauffeur access safeguards, passenger privacy, AI data minimization and automated validation.

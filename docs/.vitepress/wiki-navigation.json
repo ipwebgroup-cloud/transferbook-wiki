@@ -2,6 +2,31 @@
   "sections": {
     "integrations": [
       {
+        "slug": "api-keys",
+        "en": "API keys & secure setup",
+        "el": "Κλειδιά API και ασφαλής ρύθμιση"
+      },
+      {
+        "slug": "third-party-api-setup",
+        "en": "Third-party API setup & readiness",
+        "el": "Ρύθμιση API τρίτων και ετοιμότητα"
+      },
+      {
+        "slug": "maps-arrivals-setup",
+        "en": "Google Maps, routing & arrival APIs",
+        "el": "Google Maps, δρομολόγηση και API αφίξεων"
+      },
+      {
+        "slug": "ai-messaging-setup",
+        "en": "AI, email & messaging API setup",
+        "el": "Ρύθμιση API AI, email και μηνυμάτων"
+      },
+      {
+        "slug": "payment-api-setup",
+        "en": "Payment gateway API setup",
+        "el": "Ρύθμιση API παρόχων πληρωμών"
+      },
+      {
         "slug": "activation-and-channels",
         "en": "Integration readiness and channels",
         "el": "Διαθεσιμότητα και κανάλια διασύνδεσης"
@@ -161,10 +186,15 @@
     "/el/installation/",
     "/el/integrations/",
     "/el/integrations/activation-and-channels.html",
+    "/el/integrations/ai-messaging-setup.html",
+    "/el/integrations/api-keys.html",
     "/el/integrations/conversational-booking.html",
     "/el/integrations/external-dispatch.html",
     "/el/integrations/live-tracking.html",
+    "/el/integrations/maps-arrivals-setup.html",
+    "/el/integrations/payment-api-setup.html",
     "/el/integrations/payment-providers.html",
+    "/el/integrations/third-party-api-setup.html",
     "/el/plus/",
     "/el/plus/assignments.html",
     "/el/plus/chauffeur-workspace.html",
@@ -216,10 +246,15 @@
     "/installation/",
     "/integrations/",
     "/integrations/activation-and-channels.html",
+    "/integrations/ai-messaging-setup.html",
+    "/integrations/api-keys.html",
     "/integrations/conversational-booking.html",
     "/integrations/external-dispatch.html",
     "/integrations/live-tracking.html",
+    "/integrations/maps-arrivals-setup.html",
+    "/integrations/payment-api-setup.html",
     "/integrations/payment-providers.html",
+    "/integrations/third-party-api-setup.html",
     "/plus/",
     "/plus/assignments.html",
     "/plus/chauffeur-workspace.html",
